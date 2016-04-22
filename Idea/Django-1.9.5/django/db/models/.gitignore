@@ -1,0 +1,13 @@
+/__init__.pyc
+/aggregates.pyc
+/base.pyc
+/constants.pyc
+/deletion.pyc
+/expressions.pyc
+/lookups.pyc
+/manager.pyc
+/options.pyc
+/query.pyc
+/query_utils.pyc
+/signals.pyc
+/utils.pyc

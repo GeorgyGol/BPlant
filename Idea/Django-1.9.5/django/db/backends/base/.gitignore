@@ -1,0 +1,9 @@
+/__init__.pyc
+/base.pyc
+/client.pyc
+/creation.pyc
+/features.pyc
+/introspection.pyc
+/operations.pyc
+/schema.pyc
+/validation.pyc
